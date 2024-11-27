@@ -1,5 +1,5 @@
 # Description
-A simple app with react for displaying product from DummyJSON API.
+A simple app with React (Vite) for displaying product from DummyJSON API.
 Here's the link for the API:
 https://dummyjson.com/docs/products
 
