@@ -1,3 +1,19 @@
+# Description
+A simple app with react for displaying product from DummyJSON API.
+Here's the link for the API:
+https://dummyjson.com/docs/products
+
+# Run
+```
+npm i
+```
+
+Then
+
+```
+npm run dev
+```
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
